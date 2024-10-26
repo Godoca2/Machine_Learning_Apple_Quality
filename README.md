@@ -1,5 +1,8 @@
 # Predicción de la Calidad de Manzanas 🍎
 
+
+![Manzanas](Image/manzanas.jpg)
+
 Este proyecto aplica técnicas de Machine Learning para predecir la calidad de manzanas, utilizando diferentes algoritmos supervisados y no supervisados. A través de un flujo de trabajo estructurado que abarca desde la exploración de datos hasta la selección de modelos, el análisis proporciona una metodología integral para problemas de clasificación en el ámbito agroindustrial.
 
 ## Descripción del Proyecto
